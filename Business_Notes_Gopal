@@ -8,7 +8,8 @@ Diffie-Hellman key exchange, and Elliptic Curve Diffie-Hellman key exchange.
 ## Explain or provide examples of the types of real-world problems this solution can solve.
 Since quantum computing has the potential to be both good and evil, it is necessary to prepare for the inevitable "Y2K moment". Our company proposes a 
 quantum-safe cryptographic solution that will protect your sensitive data (whether it be financial data, health-care data, etc) from hackers and malicious
-actors. 
+actors. There is wide range of potential customers for this problem. Whatever we deal with in the world can be expressed in the form of data. 
+Thus, any company or organization (banks, heathlcare organizations, research institutes, ...) for which data is essential is a potential customer. 
 
 ## Identify at least one potential customer for this solution - ie: a business who has this problem and would consider paying to have this problem solved.
 
@@ -27,11 +28,6 @@ The results shows that the runtime of factorized on N to its prime factors incre
 # Real-world problems
 -
 -
-
-# Potential customers
-
-Potential customers of a ...
-
 # Video for customer value proposition
 
 
