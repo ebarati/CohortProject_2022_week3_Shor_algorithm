@@ -1,6 +1,11 @@
 ## Explain to a layperson the technical problem you solved in this exercise:
-Shors factoring algorithm is the first quantum algorithm with known exponential speedup. 
+Shors factoring algorithm is one of the first (and few) textbook quantum algorithms with known exponential speedup.  In other words, it computes quantumly
+something that is extremely difficult (if not impossible) to compute classically. Peter Shor developed this algorithm to find the prime factors of an 
+integer.  Two features of Shor's algorithm render its quantum advantage in factoring - the quantum Fourier transform, and repeated squaring by modular 
+exponentiation.  Three common public-key cryptography schemes in use today are vulnerable to quantum computer breakage (via Shor's algorithm) - RSA, Finite Field 
+Diffie-Hellman key exchange, and Elliptic Curve Diffie-Hellman key exchange. 
 
 ## Explain or provide examples of the types of real-world problems this solution can solve.
+In seeing not only the good side - but also the bad side - of quantum computing, it is 
 
 ## Identify at least one potential customer for this solution - ie: a business who has this problem and would consider paying to have this problem solved.
