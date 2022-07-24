@@ -45,10 +45,10 @@ Potential customers of a ...
 
 [1] Learn Quantum Computation using Qiskit, https://qiskit.org/textbook/ch-algorithms/shor.html
 
-[2]
+[2] "Shor's Algorithm", https://en.wikipedia.org/wiki/Shor%27s_algorithm#Discrete_logarithms.
 
-[3]
+[3] https://scottaaronson.blog/?p=208
 
-[4]
+[4] https://github.com/PacktPublishing/Quantum-Computing-in-Practice-with-Qiskit-and-IBM-Quantum-Experience/blob/master/Chapter10/ch10_r2_shor_aqua.py
 
 [5]
