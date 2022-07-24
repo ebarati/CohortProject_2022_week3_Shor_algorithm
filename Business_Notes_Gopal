@@ -1,5 +1,5 @@
 ## Explain to a layperson the technical problem you solved in this exercise:
-Shors factoring algorithm is one of the first (and few) textbook quantum algorithms with known exponential speedup.  In other words, it computes quantumly
+Shor's factoring algorithm is one of the first (and few) textbook quantum algorithms with known exponential speedup.  In other words, it computes quantumly
 something that is extremely difficult (if not impossible) to compute classically. Peter Shor developed this algorithm to find the prime factors of an 
 integer.  Two features of Shor's algorithm render its quantum advantage in factoring - the quantum Fourier transform, and repeated squaring by modular 
 exponentiation.  Three common public-key cryptography schemes in use today are vulnerable to quantum computer breakage (via Shor's algorithm) - RSA, Finite Field 
@@ -11,3 +11,47 @@ quantum-safe cryptographic solution that will protect your sensitive data (wheth
 actors. 
 
 ## Identify at least one potential customer for this solution - ie: a business who has this problem and would consider paying to have this problem solved.
+
+
+# Business Application of the gate model Shor's algorithm
+
+# Technical problem
+- ...
+
+# Technical problem
+
+- Graphs
+
+Full stack approach:
+
+- Problem definition
+
+- Quantum algorithm
+
+- Compilation (Processor design / gate implementation)
+
+- Performance analysis
+- 
+
+# Real-world problems
+-
+-
+
+# Potential customers
+
+Potential customers of a ...
+
+# Video for customer value proposition
+
+
+# References
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
