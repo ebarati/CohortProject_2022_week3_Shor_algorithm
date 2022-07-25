@@ -28,11 +28,11 @@ Such as:
 # Compilation (Processor design / gate implementation) and analysis
 We run the Shor's algorithm on two different platforms: the IBM cloud and our local memory. Figures [1-3] depicts the different values of N (factorized) versus the Runtime. 
 The results of the two runs (cloud and local memory) shows that the runtime of factorized on N to its prime factors increases with increasing N for the both cases. 
-Although, comparing the two runtimes may not make sense, due to the different crowd on the IBM cloud at the time of ruuning, we also plot the Runtime vesus N, 
+Although, comparing the two runtimes may not make sense, due to the different crowd on the IBM cloud at the time of running, we also plot the Runtime versus N, 
 and one can see the Runtime is smaller when running the code on the IBM cloud. 
 
 We also plot the number of input and output qubit required for the Shor's algorithm for different N. 
-As seen the number of qubits increases (N=8 --> 14) as N increseas from N=15 to N=91 and they scale roughly as log (N).
+As seen the number of qubits increases (N=8 --> 14) as N increases from N=15 to N=91 and they scale roughly as log (N).
  
 
 # Real-world problems
