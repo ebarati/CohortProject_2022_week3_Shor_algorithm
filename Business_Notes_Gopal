@@ -37,10 +37,10 @@ As seen the number of qubits increases (N=8 --> 14) as N increases from N=15 to 
 
 # Real-world problems
 - Cryptography in finance: Banks and financial institutes spend 1000s of dollars every year to avoid their losses. 
-According to the Federal Trade Commission, despite all the security protocols american consumers loss to fraud is increasing. 
+According to the Federal Trade Commission, despite all the security protocols American consumers loss to fraud is increasing. 
 The loss was more than $5.8 billion in 2021, and up from $3.4 billion in 2020 (an increase of more than 70%).
 Such loss can be preveted by quantum algorithm. 
-That is why not only they are seeking help from quantum scientist, but also investing on quantumcomputing themselves by setting up separate departments working on quantum computations.
+That is why not only they are seeking help from quantum scientist, but also investing on quantum computing themselves by setting up separate departments working on quantum computations.
 
 
 # References
