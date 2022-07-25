@@ -23,7 +23,7 @@ Although, comparing the two runtimes may not make sense, due to the different cr
 and one can see the Runtime is smaller when running the code on the IBM cloud. 
 
 We also plot the number of input and output qubit required for the Shor's algorithm for different N. 
-As seen the number of qubits increases (N=8 --> 14) as N increseas from N=15 to N=91.
+As seen the number of qubits increases (N=8 --> 14) as N increseas from N=15 to N=91 and they scale roughly as log (N).
  
 
 # Real-world problems
