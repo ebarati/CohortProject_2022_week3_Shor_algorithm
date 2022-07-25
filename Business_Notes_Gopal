@@ -34,12 +34,14 @@ As seen the number of qubits increases (N=8 --> 14) as N increseas from N=15 to 
 
 # References
 
-[1] Learn Quantum Computation using Qiskit, https://qiskit.org/textbook/ch-algorithms/shor.html
+[1] Shor, P. W. Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer. SIAM review 41,
+303–332 (1999).
 
-[2] "Shor's Algorithm", https://en.wikipedia.org/wiki/Shor%27s_algorithm#Discrete_logarithms.
+[2] Learn Quantum Computation using Qiskit, https://qiskit.org/textbook/ch-algorithms/shor.html
 
-[3] https://scottaaronson.blog/?p=208
+[3] "Shor's Algorithm", https://en.wikipedia.org/wiki/Shor%27s_algorithm#Discrete_logarithms.
 
-[4] https://github.com/PacktPublishing/Quantum-Computing-in-Practice-with-Qiskit-and-IBM-Quantum-Experience/blob/master/Chapter10/ch10_r2_shor_aqua.py
+[4] https://scottaaronson.blog/?p=208
 
-[5]
+[5] https://github.com/PacktPublishing/Quantum-Computing-in-Practice-with-Qiskit-and-IBM-Quantum-Experience/blob/master/Chapter10/ch10_r2_shor_aqua.py
+
