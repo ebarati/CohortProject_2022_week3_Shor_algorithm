@@ -26,7 +26,7 @@ Such as:
  to name a few.
 
 # Compilation (Processor design / gate implementation) and analysis
-We run the Shor's algorithm on two different platform: the IBM cloud and our local memory. Figures [1-3] dipicts the different valuse of N (factorized) versus the Runtime. 
+We run the Shor's algorithm on two different platforms: the IBM cloud and our local memory. Figures [1-3] dipicts the different valuse of N (factorized) versus the Runtime. 
 The results of the two runs (cloud and local memory) shows that the runtime of factorized on N to its prime factors increases with increasing N for the both cases. 
 Although, comparing the two runtimes may not make sense, due to the different crowd on the IBM cloud at the time of ruuning, we also plot the Runtime vesus N, 
 and one can see the Runtime is smaller when running the code on the IBM cloud. 
@@ -36,8 +36,11 @@ As seen the number of qubits increases (N=8 --> 14) as N increseas from N=15 to 
  
 
 # Real-world problems
--
--
+- Financial services: Banks and financial institutes spend 1000s of dollars every year to avoid their losses that can be solved by quantum algorithm. 
+That is why not only they are seeking help from quantum scientist, but also investing on quantumcomputing themselves by setting up separate departments working on quantum computations.
+
+- Cryptography: 
+
 # Video for customer value proposition
 
 
